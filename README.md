@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saur-bh
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning Web developement
-- 💞️ I’m looking to collaborate on open source and project idea
 - 📫 How to reach me https://saur-bh.github.io/me/
 
 <!---
