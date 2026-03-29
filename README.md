@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saur-bh
 - 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning Web developement
+- 🌱 I’m currently learning LLM usage in QA
 - 📫 How to reach me https://saur-bh.github.io/me/
 
 <!---
